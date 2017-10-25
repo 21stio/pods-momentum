@@ -1,10 +1,10 @@
 # Momentum Strategy Benchmark
 
-### Setup
+## Setup
 
 Before you can run it you might have to install some dependencies.
 
-##### Windows:
+### Windows:
 
 Open the anaconda shell without starting jupyter
 
@@ -20,6 +20,6 @@ pip install quandl
 
 Start jupyter and navigate to the notebook
 
-##### Unix based:
+### Unix based:
 
 Same as windows, just im the regular terminal
