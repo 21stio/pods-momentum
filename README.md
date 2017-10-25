@@ -10,7 +10,7 @@ Open the anaconda shell without starting jupyter
 
 Execute the following:
 
-````bash
+```bash
 pip install numpy
 pip install pandas
 pip install pandas_datareader
